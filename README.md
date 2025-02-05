@@ -46,6 +46,7 @@ Monad Memento is an innovative simulation platform that lets you explore, replay
 ```bash
 git clone https://github.com/<your_username>/monad-memento.git
 cd monad-memento
+```
 
 ## License
 This project is licensed under the MIT License.
